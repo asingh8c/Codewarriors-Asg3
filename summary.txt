@@ -1,0 +1,2 @@
+Summary for /www/javadecompilers/app/public/data/31.08.16/d337c6f9cef1d67b854b80bd1331ea12/ITC515_NewLibrary_Java.jar
+Decompiled with CFR 0_115
