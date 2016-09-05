@@ -126,8 +126,8 @@ implements IMainListener {
 
             @Override
             public void run() {
-                Main.this.display.setDisplay(new MainPanel(Main.this), "Main Menu");
-                Main.this.showGUI();
+                main.display.setDisplay(new MainPanel(main), "Main Menu");
+                main.showGUI();
             }
         });
     }

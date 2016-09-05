@@ -7,8 +7,5 @@ public enum EMemberState {
     BORROWING_ALLOWED,
     BORROWING_DISALLOWED;
     
-
-    private EMemberState(String string2, int n2) {
-    }
 }
 

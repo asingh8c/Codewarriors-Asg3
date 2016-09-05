@@ -9,8 +9,5 @@ public enum ELoanState {
     OVERDUE,
     COMPLETE;
     
-
-    private ELoanState(String string2, int n2) {
-    }
 }
 
