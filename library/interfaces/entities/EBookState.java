@@ -10,8 +10,5 @@ public enum EBookState {
     DAMAGED,
     DISPOSED;
     
-
-    private EBookState(String string2, int n2) {
-    }
 }
 

@@ -12,8 +12,5 @@ public enum EBorrowState {
     BORROWING_RESTRICTED,
     CANCELLED;
     
-
-    private EBorrowState(String string2, int n2) {
-    }
 }
 
